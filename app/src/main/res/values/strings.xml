@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">05.12.2024(2)</string>
+    <string name="selected_item">Selected_item:</string>
+    <string-array name="status">
+        <item>Online</item>
+        <item>Offline</item>
+        <item>Busy</item>
+        <item>Free</item>
+    </string-array>
+</resources>
